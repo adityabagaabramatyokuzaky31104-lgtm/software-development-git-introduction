@@ -1,6 +1,6 @@
 ## Informasi Mahasiswa
 - Nama : Aditya Bagas Bramatyo Kuzaky  
-- NPM : 2313020003  
+- NPM : 2313020056  
 
 ## Deskripsi Repository
 Repository ini digunakan untuk mempelajari dasar penggunaan Git dan GitHub sebagai Version Control System dalam pengembangan perangkat lunak.
